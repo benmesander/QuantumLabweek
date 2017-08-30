@@ -1,2 +1,2 @@
 # QuantumLabweek
-Maximizi g Employee Happiness With Entangled Electrons.
+Maximizing Employee Happiness With Entangled Electrons.
